@@ -1,15 +1,14 @@
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css">
 <h1 align="center">I'm Jose</h1>
 
 
-- 🌱 I’m currently learning **Flask and Django**
+🌱 I’m currently learning **Flask and Django**
 
-- 👨‍💻 All of my projects are available at [https://josecorazaoholgado.netlify.app/](https://josecorazaoholgado.netlify.app/)
+👨‍💻 All of my projects are available at [https://josecorazaoholgado.netlify.app/](https://josecorazaoholgado.netlify.app/)
 
-- 💬 Ask me about **Laravel**
+📫 How to reach me **joseluiscorazao@gmail.com**
 
-- 📫 How to reach me **joseluiscorazao@gmail.com**
-
-- 📄 Know about my experiences [https://josecorazaoholgado.netlify.app/files/cvpe22.pdf](https://josecorazaoholgado.netlify.app/files/cvpe22.pdf)
+📄 Know about my experiences [https://josecorazaoholgado.netlify.app/files/cvpe22.pdf](https://josecorazaoholgado.netlify.app/files/cvpe22.pdf)
 
 <h3 align="center">Connect:</h3>
 <p align="center">
