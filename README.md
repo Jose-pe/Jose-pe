@@ -36,6 +36,6 @@
 
    
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jose-pe&show_icons=true&locale=en" alt="jose-pe" /></p>
+
 
 
