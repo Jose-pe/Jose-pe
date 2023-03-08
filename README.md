@@ -10,7 +10,7 @@
 
 📄 Know about my experiences [https://josecorazaoholgado.netlify.app/files/cvpe22.pdf](https://josecorazaoholgado.netlify.app/files/cvpe22.pdf)
 
-📄 Also you can see my Bitbucket profile with nzr_pe 
+📄 Also you can see my Bitbucket profile as nzr_pe 
 
 
 <h3 align="center">Frontend</h3>
