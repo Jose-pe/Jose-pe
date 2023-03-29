@@ -2,7 +2,7 @@
 <h1 align="center">I'm Jose</h1>
 
 
-🌱 I’m currently learning **Python and Flask **
+🌱 I’m currently learning ** Python and Flask **
 
 👨‍💻 All of my projects are available at [https://josecorazaoholgado.netlify.app/](https://josecorazaoholgado.netlify.app/)
 
