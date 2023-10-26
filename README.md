@@ -2,15 +2,13 @@
 <h1 align="center">I'm Jose</h1>
 
 
-🌱 I’m currently learning **Python and Flask**
+ I’m currently learning **Python and Flutter **
 
-👨‍💻 All of my projects are available at [https://josecorazaoholgado.netlify.app/](https://josecorazaoholgado.netlify.app/)
+ Projects and other nonsense  [JOSECODER.COM](https://josecoder.com)
 
-📫 How to reach me **joseluiscorazao@gmail.com**
+Contact  **joseluiscorazao@gmail.com**
 
-📄 Know about my experiences [https://josecorazaoholgado.netlify.app/files/cvpe22.pdf](https://josecorazaoholgado.netlify.app/files/cvpe22.pdf)
-
-📄 Also you can see my Bitbucket profile as nzr_pe 
+ 
 
 
 <h3 align="center">Frontend</h3>
