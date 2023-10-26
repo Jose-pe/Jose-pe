@@ -2,7 +2,7 @@
 <h1 align="center">I'm Jose</h1>
 
 
- I’m currently learning **Python and Flutter **
+ I’m currently learning ** Python and Flutter **
 
  Projects and other nonsense  [JOSECODER.COM](https://josecoder.com)
 
