@@ -2,11 +2,11 @@
 <h1 align="center">I'm Jose</h1>
 
 
- I’m currently learning ** Python and Flutter **
+<h2> I’m currently learning **Python and Flutter** </h2>
 
- Projects and other nonsense  [JOSECODER.COM](https://josecoder.com)
+ <h2> Projects and other nonsense  [JOSECODER.COM](https://josecoder.com)  </h2>
 
-Contact  **joseluiscorazao@gmail.com**
+<h2> Contact  **joseluiscorazao@gmail.com**  </h2>
 
  
 
