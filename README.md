@@ -4,8 +4,6 @@
 
  - I’m currently learning **Python and Dart** 
 
- - Projects and my tutorials  [www.josecoder.com](https://josecoder.com) 
-
  - Contact  **joseluiscorazao@gmail.com**  
 
  
