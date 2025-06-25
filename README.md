@@ -2,7 +2,7 @@
 <h1 align="center">I'm Jose</h1>
 
 
- - I’m currently learning **Python and Dart** 
+ - I’m currently learning **Python and Microphython, ESP32** 
 
  - Contact  **joseluiscorazao@gmail.com**  
 
